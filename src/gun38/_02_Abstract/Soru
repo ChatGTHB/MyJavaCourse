@@ -1,0 +1,16 @@
+1- İçinde name field'ı olan Sekil isimli bir Abstract Class yazınız.
+2- Bu class'ın alan ve cevre abstract metodları ve içinde alan ve cevre'nin sonucu olan toString somut metodu,
+   sekilin adını veren getName somut metodu ve ciz isimli somut metodlarını ekleyiniz.
+3- Bu sınıftan Dikdörtgen ve Daire isimli 2 class oluşturunuz.
+4- Bunlardan birer örnek main metodunda çalıştırınız.
+   Bu kanalda mesaj gönderme iznine sahip değilsin.
+
+toString()
+
+Dikdörtgen
+alan=25;
+cevre=30;
+
+Daire
+alan=12;
+cevre=9;
